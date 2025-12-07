@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Marat Magomedov
-
 ### Frontend Developer | Vue & Nuxt Specialist
 
 📍 **Location:** Yaroslavl, Russia  
