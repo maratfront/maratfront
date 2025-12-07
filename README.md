@@ -35,12 +35,12 @@
 
 ## 💼 Work Experience
 
-### **Frontend Developer** @ [ZooMir](https://zoomir.ru/) *(Remote, Stavropol)*
+### **Frontend Developer** ZooMir *(Remote, Stavropol)*
 *Duration:* 2 years *(2023 - Present)*
 
 - Developed and maintained web applications using **Nuxt.js** framework
 - Implemented responsive and interactive UI components with **Vue.js**
-- Managed state using **Pinia** and **Vuex** state management libraries
+- Managed state using **Pinia** state management libraries
 - Created comprehensive test suites using **Vitest** and **Testing Library**
 - Implemented unit, component, and integration tests for Vue components
 - Set up CI/CD pipelines with automated testing
